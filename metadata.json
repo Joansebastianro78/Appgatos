@@ -1,6 +1,6 @@
 {
-  "name": "Aura AI Journal",
-  "description": "An elegant, AI-powered personal journaling and creative brainstorming companion that stores entries in a local database and offers deep insights via Gemini.",
+  "name": "Finanz",
+  "description": "An elegant, personal expense tracker that records daily transactions into a local database and offers smart visual charts and Gemini-powered budgeting tips.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
